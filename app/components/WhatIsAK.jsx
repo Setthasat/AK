@@ -23,9 +23,9 @@ export const WhatIsAK = () => {
           </div>
           <div className=" p-8 rounded-lg">
             <img
-              src="/AK-whatis.png"
+              src="/AK.jpeg"
               alt="Technical diagram of AK-47 rifle"
-              className="w-full h-auto"
+              className="w-full h-auto rounded-lg"
             />
           </div>
         </div>
